@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  header {
+    background-color: #304D63;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  aside {
+    background-color: #ed8975;
+    position: fixed;
+    top: 0;
+    width: 50%;
+    float: right;
+    right: 0;
+    margin-top: 74px;
+    height: 637px;
+  }
+
+ .orochi{
+    text-align: center;
+ }
+
+ .cartas{
+    text-align: center;
+ }
+
+ .agathacristie{
+    text-align: center;
+ }
+
+  h3{
+    text-align: center;
+  }
+
+  
+  article{
+    background-color: #F2D096;
+    padding: 20px;
+    margin-bottom: 0px;
+    width: 50%;
+    height: 278px;
+  }
+
+  section {
+    background-color: #F2D096;
+    padding: 20px;
+    margin-bottom: 0px;
+    width: 50%;
+    height: 278px;
+  }
+  
+
+  footer {
+    background-color: #B2E7E8;
+    padding: 8px;
+    margin-top: auto;
+    text-align: center;
+  }
+  
+    article,
+    section {
+      flex: 1;
+      margin-right: 20px;
+    }
+ 
